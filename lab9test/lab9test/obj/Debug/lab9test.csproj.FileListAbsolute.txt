@@ -1,0 +1,6 @@
+c:\users\priyanka\documents\visual studio 2015\Projects\lab9test\lab9test\bin\Debug\lab9test.exe.config
+c:\users\priyanka\documents\visual studio 2015\Projects\lab9test\lab9test\bin\Debug\lab9test.exe
+c:\users\priyanka\documents\visual studio 2015\Projects\lab9test\lab9test\bin\Debug\lab9test.pdb
+c:\users\priyanka\documents\visual studio 2015\Projects\lab9test\lab9test\obj\Debug\lab9test.exe
+c:\users\priyanka\documents\visual studio 2015\Projects\lab9test\lab9test\obj\Debug\lab9test.pdb
+c:\users\priyanka\documents\visual studio 2015\Projects\lab9test\lab9test\obj\Debug\lab9test.csprojResolveAssemblyReference.cache

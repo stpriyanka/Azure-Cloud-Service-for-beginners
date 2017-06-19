@@ -1,0 +1,8 @@
+c:\users\priyanka\documents\visual studio 2015\Projects\Lab9service\Lab9service\bin\Debug\ServiceConfiguration.cscfg
+c:\users\priyanka\documents\visual studio 2015\Projects\Lab9service\Lab9service\bin\Debug\ServiceDefinition.csdef
+c:\users\priyanka\documents\visual studio 2015\Projects\Lab9service\Lab9service\obj\Debug\CalcWebrole\bin\CalcWebrole.dll
+c:\users\priyanka\documents\visual studio 2015\Projects\Lab9service\Lab9service\obj\Debug\CalcWebrole\bin\CalcWebrole.dll.config
+c:\users\priyanka\documents\visual studio 2015\Projects\Lab9service\Lab9service\obj\Debug\CalcWebrole\bin\CalcWebrole.pdb
+c:\users\priyanka\documents\visual studio 2015\Projects\Lab9service\Lab9service\obj\Debug\CalcWebrole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\priyanka\documents\visual studio 2015\Projects\Lab9service\Lab9service\obj\Debug\CalcWebrole\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+c:\users\priyanka\documents\visual studio 2015\Projects\Lab9service\Lab9service\obj\Debug\CalcWebrole\bin\MonAgentListener.dll

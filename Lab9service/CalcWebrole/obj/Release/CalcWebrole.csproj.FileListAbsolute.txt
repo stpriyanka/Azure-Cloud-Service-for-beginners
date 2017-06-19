@@ -1,0 +1,7 @@
+c:\users\priyanka\documents\visual studio 2015\Projects\Lab9service\CalcWebrole\bin\CalcWebrole.dll.config
+c:\users\priyanka\documents\visual studio 2015\Projects\Lab9service\CalcWebrole\bin\CalcWebrole.dll
+c:\users\priyanka\documents\visual studio 2015\Projects\Lab9service\CalcWebrole\bin\CalcWebrole.pdb
+c:\users\priyanka\documents\visual studio 2015\Projects\Lab9service\CalcWebrole\bin\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\priyanka\documents\visual studio 2015\Projects\Lab9service\CalcWebrole\bin\MonAgentListener.dll
+c:\users\priyanka\documents\visual studio 2015\Projects\Lab9service\CalcWebrole\obj\Release\CalcWebrole.dll
+c:\users\priyanka\documents\visual studio 2015\Projects\Lab9service\CalcWebrole\obj\Release\CalcWebrole.pdb
