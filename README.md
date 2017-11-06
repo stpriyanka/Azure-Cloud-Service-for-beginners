@@ -1,2 +1,2 @@
-# lab9service
-Azure service for lab9
+# Azure cloud service
+Azure service 
